@@ -20,7 +20,7 @@ Este proyecto es una herramienta web diseñada para generar **firmas de correo e
 ## 🖥️ Cómo usarlo
 
 1. Abre el sitio web en:  
-   👉 [https://soporteimf.github.io/firma-corporativa-imporfil/](https://soporteimf.github.io/firma-corporativa-imporfil/)
+   👉 [https://imporfil.github.io/firma-corporativa-imporfil/](https://soporteimf.github.io/firma-corporativa-imporfil/)
 2. Llena el formulario con tus datos personales y de contacto.
 3. Haz clic en **"Generar Firma"** para previsualizar la firma.
 4. Presiona **"Copiar Firma"** para copiar el bloque HTML al portapapeles.
@@ -39,4 +39,4 @@ Este proyecto es una herramienta web diseñada para generar **firmas de correo e
 ## 🔗 Publicación
 
 El proyecto se publica mediante **GitHub Pages**, por lo que siempre puedes acceder a la última versión en:  
-👉 [https://soporteimf.github.io/firma-corporativa-imporfil/](https://soporteimf.github.io/firma-corporativa-imporfil/)
+👉 [https://imporfil.github.io/firma-corporativa-imporfil/](https://soporteimf.github.io/firma-corporativa-imporfil/)
